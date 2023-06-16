@@ -1,0 +1,2 @@
+# BlazorWebAssembly
+Blazor Assembly app
